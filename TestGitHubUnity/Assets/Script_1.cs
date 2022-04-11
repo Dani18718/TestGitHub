@@ -15,4 +15,9 @@ public class Script_1 : MonoBehaviour
     {
         //Test 
     }
+
+    void testMethode ()
+    {
+        // bitte funktioniere
+    }
 }
